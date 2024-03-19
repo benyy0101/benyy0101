@@ -59,11 +59,11 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
-        <img src="https://img.shields.io/badge/prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white">
-        <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white">
-        <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
-        <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+        <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+        <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
+        <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     </div>
 <br>
 </div>
